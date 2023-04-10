@@ -15,13 +15,13 @@ header {
 }
 aside {
     width: 40%;
-    min-height: 900px;
+    min-height: 1000px;
     background-color: #d9d9d9;
     float: right;
 }
 main {
     width: 60%;
-    min-height: 900px;
+    min-height: 1000px;
     background-color: #65d0d7;
     float: left;
 }
